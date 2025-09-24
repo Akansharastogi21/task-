@@ -24,4 +24,4 @@ Clean and prepare the raw Netflix dataset in Excel by handling missing values, d
 
 ## ✅ Deliverables
 - Cleaned dataset saved as `netflix_titles_cleaned.xlsx`
-- This README summary
+- This README.md summary
